@@ -13,4 +13,5 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "Trippy"
-include ':app'
+include (":app")
+
